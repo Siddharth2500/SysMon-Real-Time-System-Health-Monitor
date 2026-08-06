@@ -7,7 +7,7 @@
 ![Automation](https://img.shields.io/badge/Automation-Scripts-2088FF?logo=github-actions&logoColor=white)
 ![CrossPlatform](https://img.shields.io/badge/Cross_Platform-Windows%20|%20Linux%20|%20macOS-blue)
 
-----------------
+------------------
 
 ## 📖 Overview
 
