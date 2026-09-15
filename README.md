@@ -35,7 +35,7 @@ Key Features:
 | **Environment**      | ![Colab](https://img.shields.io/badge/Google_Colab-Compatible-F9AB00?logo=googlecolab&logoColor=white) | Easy to test & demo online |
 | **Monitoring Export**| ![Prometheus](https://img.shields.io/badge/Prometheus-Optional-E6522C?logo=prometheus) | Extend monitoring to enterprise tools |
 
----
+-----
 
 ## 🌐 Architecture
 
