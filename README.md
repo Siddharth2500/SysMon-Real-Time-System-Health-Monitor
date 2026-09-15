@@ -22,7 +22,7 @@ Key Features:
 - ☁️ **Google Colab compatible**
 - 🔧 **Easily extensible** for Prometheus or Grafana metrics export
 
----
+----
 
 ## 🛠️ Tech Stack
 
